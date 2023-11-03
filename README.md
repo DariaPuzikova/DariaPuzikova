@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+I decided to change my profession. From 2022 I am studying and creating projects to become an Data science specialist.
+
+Stack:
+- **Python**\
+  pandas, numpy, sklearn, matplotlib, scikit-learn
+- **SQL**
+- **Data analytics**\
+  data preprocessing, hypothesis testing
+
+📫 How to reach me:
+dashazmea@yandex.ru\
+
+
 <!--
 **DariaPuzikova/DariaPuzikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

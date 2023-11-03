@@ -10,7 +10,7 @@ Stack:
   data preprocessing, hypothesis testing
 
 📫 How to reach me:
-dashazmea@yandex.ru\
+dashazmea@gmail.com
 
 
 <!--

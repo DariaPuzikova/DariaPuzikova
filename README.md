@@ -9,7 +9,8 @@ Stack:
 - **Data analytics**\
   data preprocessing, hypothesis testing
 
-📫 How to reach me:
+📫 How to reach me:\
+https://t.me/DaJu2208 \
 dashazmea@gmail.com
 
 
